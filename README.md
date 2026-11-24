@@ -18,6 +18,7 @@ It creates the output directory if needed and writes the single emoji 🤗 to `e
 
 ## Badges
 
-[![Badge](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f/badge.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
-[![Rank](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f/rank.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
-[![Reward](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f/reward.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
+[![Badge](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
+[![Rank](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/emasinves0-commits/u-0xkianno-one-emoji-one-smile-5470751f/rank.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
+[![Reward](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/emasinves0-commits/u-0xkianno-one-emoji-one-smile-5470751f/reward.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f)
+
